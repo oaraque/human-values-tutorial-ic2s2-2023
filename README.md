@@ -5,6 +5,7 @@ Link to the tutorial: https://propaganda.math.unipd.it/ic2s2-tutorial/
 
 ## About
 
+Appeal to values is fundamental in mass persuasive communication. Appropriate framing may enable effective communication campaigns designed to promote vaccination uptake or pro-environmental attitudes, or can be employed to detect propaganda attempts. In this tutorial, we give an overview of how the basic human and moral values are interpreted and quantified according to the psychological literature, how they can be assessed from user generated data, and how they may be employed in persuasion and propaganda identification.
 
 ## Authors
 
@@ -24,3 +25,8 @@ He served as general chair for CLEF’22 and organised several events around the
 
 Oscar Araque is currently Assistant Professor at Universidad Politécnica de Madrid (UPM). His research interest includes the application of machine-learning techniques for natural language processing. In addition, his research interests lie in introducing specific domain knowledge into machine learning systems to enhance sentiment and emotion analysis techniques and their applications to new domains, such as radicalization narratives. His work has received four distinguished prizes: Most Cited Scientific Paper Award 2020 by the Universidad Politécnica de Madrid, Prize for the Most Cited Scientific Article Originating from a UPM Doctoral Thesis 2021, ISDEFE Award for the Best Doctoral Thesis in Security and Defense 2020, and  Extraordinary Doctoral Thesis Award - ETSIT UPM 2022.
 
+## Content
+
+1. Human and moral values
+2. Propaganda, persuasion & coordinated behaviour
+3. Controversy detection
